@@ -1,0 +1,287 @@
+body {
+  min-height: 100%;
+  background-color: white;
+}
+
+.buttons {
+  position: absolute;
+  left: 15%;
+  top: 80%;
+}
+
+.about {
+  font-size: 60px;
+  font-family: "Menoe Grotesque Pro Regular";
+  font-style: italic;
+  font-weight: bold;
+  position: absolute;
+  left: 40%;
+  top: 86%;
+}
+
+.description {
+  font-family: "Menoe Grotesque Pro Regular";
+  width: 700px;
+  position: absolute;
+  left: 27%;
+  top: 100%;
+}
+
+.description2 {
+  font-family: "Menoe Grotesque Pro Regular";
+  width: 700px;
+  position: absolute;
+  left: 27%;
+  top: 128%;
+}
+
+.charachter {
+  font-size: 60px;
+  font-family: "Menoe Grotesque Pro Regular";
+  font-style: italic;
+  font-weight: bold;
+  position: absolute;
+  left: 42%;
+  top: 170%;
+}
+
+.harakter {
+  position: absolute;
+  left: 25%;
+  top: 180%;
+}
+
+.nachertaniya {
+  font-size: 60px;
+  font-family: "Menoe Grotesque Pro Regular";
+  font-style: italic;
+  font-weight: bold;
+  position: absolute;
+  left: 40%;
+  top: 268%;
+}
+
+.nachos {
+  position: absolute;
+  height: 734px;
+  width: 1307px;
+  left: 13%;
+  top: 276%;
+}
+
+.tsifri {
+  font-size: 60px;
+  font-family: "Menoe Grotesque Pro Regular";
+  font-style: italic;
+  font-weight: bold;
+  position: absolute;
+  left: 44%;
+  top: 350%;
+}
+
+.bebra {
+  position: absolute;
+  height: 1949px;
+  width: 1307px;
+  left: 13%;
+  top: 340%;
+}
+
+.ossobennosti {
+  font-size: 60px;
+  font-family: "Menoe Grotesque Pro Regular";
+  font-style: italic;
+  font-weight: bold;
+  position: absolute;
+  left: 32%;
+  top: 570%;
+}
+
+.os1 {
+  font-size: 45px;
+  font-family: "Menoe Grotesque Pro Regular";
+  width: 700px;
+  font-size: 45px;
+  position: absolute;
+  left: 33%;
+  top: 580%;
+}
+
+.os2 {
+  font-size: 45px;
+  font-family: "Menoe Grotesque Pro Regular";
+  width: 700px;
+  font-size: 45px;
+  position: absolute;
+  left: 33%;
+  top: 610%;
+}
+
+.os3 {
+  font-size: 45px;
+  font-family: "Menoe Grotesque Pro Regular";
+  width: 700px;
+  font-size: 45px;
+  position: absolute;
+  left: 33%;
+  top: 645%;
+}
+
+.lang {
+  position: absolute;
+  left: 10%;
+  top: 581%;
+}
+
+.html {
+  position: absolute;
+  right: 10%;
+  top: 581%;
+}
+
+.a {
+  position: absolute;
+  left: 10%;
+  top: 630%;
+}
+
+.zeroone {
+  position: absolute;
+  right: 10%;
+  top: 630%;
+}
+
+.osnach {
+  font-family: "Menoe Grotesque Pro Regular";
+  font-style: italic;
+  font-weight: bold;
+  font-size: 60px;
+  position: absolute;
+  left: 26%;
+  top: 680%;
+}
+
+.oe {
+  font-size: 45px;
+  font-family: "Menoe Grotesque Pro Regular";
+  width: 700px;
+  font-size: 45px;
+  position: absolute;
+  left: 33%;
+  top: 690%;
+}
+
+.oetooe {
+  width: 700px;
+  position: absolute;
+  left: 28%;
+  top: 708%;
+}
+
+.nak {
+  font-size: 45px;
+  font-family: "Menoe Grotesque Pro Regular";
+  width: 700px;
+  position: absolute;
+  left: 33%;
+  top: 735%;
+}
+
+.gradus {
+  position: absolute;
+  left: 30%;
+  top: 729%;
+}
+
+.opentype {
+  font-family: "Menoe Grotesque Pro Regular";
+  font-style: italic;
+  font-weight: bold;
+  font-size: 60px;
+  position: absolute;
+  left: 33%;
+  top: 800%;
+}
+
+.ot {
+  font-family: "Menoe Grotesque Pro Regular";
+  font-size: 45px;
+  position: absolute;
+  left: 30%;
+  top: 815%;
+}
+
+.sm1 {
+  position: absolute;
+  left: 15%;
+  top: 815%;
+}
+
+.sm2 {
+  position: absolute;
+  right: 20%;
+  top: 815%;
+}
+
+.prisp {
+  font-family: "Menoe Grotesque Pro Regular";
+  font-style: italic;
+  font-weight: bold;
+  font-size: 60px;
+  position: absolute;
+  left: 29%;
+  top: 867%;
+}
+
+.produkti {
+  position: absolute;
+  left: 18%;
+  top: 880%;
+}
+
+.adam {
+  position: absolute;
+  right: 18%;
+  top: 908%;
+}
+
+.futb {
+  position: absolute;
+  left: 13%;
+  top: 920%;
+  transform: rotate(7deg);
+}
+
+.propusk {
+  position: absolute;
+  right: 18%;
+  top: 940%;
+  transform: rotate(-11deg);
+}
+
+.visa {
+  position: absolute;
+  left: 18%;
+  top: 1000%;
+  transform: rotate(-13deg);
+}
+
+.comp {
+  position: absolute;
+  right: 9%;
+  top: 1000%;
+}
+
+.footer {
+  position: absolute;
+  height: 271px;
+  width: 1407px;
+  right: 10%;
+  top: 1070%;
+}
+
+.oblozh {
+  position: absolute;
+  right: 20%;
+  top: -2%;
+}
